@@ -1,0 +1,2 @@
+# GitPract
+my first git
